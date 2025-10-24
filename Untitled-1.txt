@@ -1,0 +1,56 @@
+c:/Users/KeneT/Desktop/Real-Estate/real-estate/
+├── .gitignore
+├── .qodo/
+│   ├── agents/
+│   └── workflows/
+├── eslint.config.js
+├── index.html
+├─] node_modules/ (ignored)
+├── package-lock.json
+├── package.json
+├── public/
+│   ├── favicon.svg
+│   └── header_img.png
+├── README.md
+├── src/
+│   ├── App.jsx
+│   ├── assets/
+│   │   ├── assets.js
+│   │   ├── avatar.jpg
+│   │   ├── brand_img.png
+│   │   ├── Contact-hero-bg.jpg
+│   │   ├── cross_icon.svg
+│   │   ├── header_img.svg
+│   │   ├── hero.jpg
+│   │   ├── left_arrow.svg
+│   │   ├── logo.svg
+│   │   ├── logo_dark.svg
+│   │   ├── menu_icon.svg
+│   │   ├── profile_img_1.png
+│   │   ├── profile_img_2.png
+│   │   ├── profile_img_3.png
+│   │   ├── project_img_1.jpg
+│   │   ├── project_img_2.jpg
+│   │   ├── project_img_3.jpg
+│   │   ├── project_img_4.jpg
+│   │   ├── project_img_5.jpg
+│   │   ├── project_img_6.jpg
+│   │   ├── react.svg
+│   │   ├── right_arrow.svg
+│   │   └── star_icon.svg
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Header.jsx
+│   │   ├── Layout.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Testimonials.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── pages/
+│       ├── AboutUs.jsx
+│       ├── ContactUs.jsx
+│       └── Home.jsx
+└── vite.config.js
