@@ -52,5 +52,7 @@ c:/Users/KeneT/Desktop/Real-Estate/real-estate/
 │   └── pages/
 │       ├── AboutUs.jsx
 │       ├── ContactUs.jsx
-│       └── Home.jsx
+│       ├── Home.jsx
+│       └── PropertyDetail.jsx
+├── Untitled-1.txt
 └── vite.config.js
